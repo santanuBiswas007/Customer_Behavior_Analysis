@@ -35,6 +35,9 @@ Top products analysis<br>
 Customer segmentation dashboard<br>
 Key performance indicators (KPIs)<br>
 
+<img width="1208" height="684" alt="Screenshot 2026-03-30 144034" src="https://github.com/user-attachments/assets/11c20a0f-b2e4-4677-b2f0-85496f708ee3" />
+
+
 ### 📑 Insight Presentation
 Key findings summarized in PowerPoint<br>
 Business recommendations for stakeholders<br>
