@@ -4,12 +4,13 @@
 This project analyzes customer purchasing behaviour using transaction data to uncover patterns, trends, and business insights. The goal is to help businesses understand customer habits and make data-driven decisions.
 
 🎯 Objectives
-Identify customer purchase patterns
-Find high-value customers
-Analyze product and transaction trends
-Provide insights through dashboards
+Identify customer purchase patterns.
+Find high-value customers.
+Analyze product and transaction trends.
+Provide insights through dashboards.
+
 🛠️ Tools & Technologies
-Tool	Usage
+
 🐍 Python	Data cleaning & preparation
 🗄️ SQL	Transaction analysis
 📊 Power BI	Dashboard & visualization
@@ -19,15 +20,16 @@ Tool	Usage
 Cleaned and transformed raw data
 Handled missing values
 Created useful customer metrics
+
 🗄️ Transaction Analysis (SQL)
+
 Revenue by customer
 Purchase frequency
 Product sales analysis
 Customer segmentation
+
 📊 Dashboard (Power BI)
-
 Created an interactive dashboard showing:
-
 Sales trends
 Top products
 Customer segments
